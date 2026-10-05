@@ -250,17 +250,13 @@ flowchart LR
 
 <img width="75%" src="https://streak-stats.demolab.com?user=rebhimariem27-tech&hide_border=true&background=0F172A&ring=7C3AED&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA"/>
 
-<br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=rebhimariem27-tech&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
 </div>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rebhimariem27-tech&bg_color=0F172A&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rebhimariem27-tech&theme=react-dark&bg_color=0F172A&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
