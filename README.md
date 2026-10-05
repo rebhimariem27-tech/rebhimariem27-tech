@@ -20,9 +20,15 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<div align="center">
 
-<img src="assets/Mariem_REBHI_photo.jpg"/>
+<img 
+    src="assets/Mariem_REBHI_photo.jpg"
+    width="180"
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
+    alt="Mariem Rebhi"
+/>
 
 </div>
 
