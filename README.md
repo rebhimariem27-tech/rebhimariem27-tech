@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="assets/Mariem_REBHI_photo.jpg" width="170" height="170" alt="Mariem Rebhi"/>
+<img src="assets/Mariem_REBHI_photo.png" width="170" height="170" alt="Mariem Rebhi"/>
 
 <br><br>
 
