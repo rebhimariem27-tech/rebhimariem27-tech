@@ -12,7 +12,7 @@
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/rebhimariem27-tech/rebhimariem27-tech/main/assets/Mariem_REBHI_photo.png&w=360&h=360&fit=cover&a=top&mask=circle" width="180" alt="Mariem Rebhi"/>
 <br><br>
 
-<a href="www.linkedin.com/in/mariem-rebhi-482913250"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariem-rebhi-482913250"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rebhimariem27@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/rebhimariem27-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=rebhimariem27-tech&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
