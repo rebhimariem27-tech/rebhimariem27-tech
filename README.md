@@ -9,8 +9,7 @@
 
 <br>
 
-<img src="assets/Mariem_REBHI_photo.png" width="170" height="170" alt="Mariem Rebhi"/>
-
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/rebhimariem27-tech/rebhimariem27-tech/main/assets/Mariem_REBHI_photo.png&w=360&h=360&fit=cover&a=top&mask=circle" width="180" alt="Mariem Rebhi"/>
 <br><br>
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
