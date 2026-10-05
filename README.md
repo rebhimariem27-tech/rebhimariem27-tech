@@ -1,41 +1,69 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:7C3AED&text=MARIEM%20REBHI&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=AI%20ENGINEERING%20%7C%20AGENTIC%20AI%20%7C%20MULTI-AGENT%20SYSTEMS&descColor=E9D5FF&descSize=18&descAlignY=58&animation=fadeIn"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:7C3AED&text=MARIEM%20REBHI&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=AI%20ENGINEERING%20%7C%20AGENTIC%20AI%20%7C%20MULTI-AGENT%20SYSTEMS&descColor=E9D5FF&descSize=18&descAlignY=58&animation=fadeIn"
+  alt="Mariem Rebhi"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+intelligent+and+autonomous+AI+systems.;Exploring+Agentic+AI+%26+Multi-Agent+Architectures.;LLMs+%7C+RAG+%7C+Reinforcement+Learning+%7C+Computer+Vision.;From+models+to+real-world+AI+systems."/>
+<!-- PROFILE PHOTO -->
+<img
+  src="assets/Mariem_REBHI_photo_circle.png"
+  width="180"
+  alt="Mariem Rebhi"
+/>
 
 <br><br>
 
+<!-- TYPING ANIMATION -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+intelligent+and+autonomous+AI+systems.;Exploring+Agentic+AI+%26+Multi-Agent+Architectures.;LLMs+%7C+RAG+%7C+Reinforcement+Learning+%7C+Computer+Vision.;From+models+to+real-world+AI+systems."
+  alt="Typing animation"
+/>
+
+<br><br>
+
+<!-- SOCIAL LINKS -->
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://github.com/rebhimariem27-tech">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<div align="center">
+<br><br>
 
-<img 
-    src="assets/Mariem_REBHI_photo.jpg"
-    width="180"
-    height="180"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="Mariem Rebhi"
+<!-- PROFILE VIEWS -->
+<img
+  src="https://komarev.com/ghpvc/?username=rebhimariem27-tech&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+  alt="Profile views"
 />
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- INTRO -->
-
+<!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">👋 Hello, I'm Mariem</h2>
@@ -46,15 +74,22 @@
 <tr>
 <td width="850">
 
-I'm an **ICT / Telecommunications Engineering Student at ENIT**, specializing in **Artificial Intelligence, Agentic AI and intelligent systems**.
+<p align="center">
+I'm an <strong>ICT / Telecommunications Engineering Student at ENIT</strong>,
+specializing in <strong>Artificial Intelligence, Agentic AI and intelligent systems</strong>.
+</p>
 
-I enjoy designing systems that combine **LLMs, retrieval, machine learning, computer vision and autonomous decision-making** to solve real-world problems.
+<p align="center">
+I design and build systems combining
+<strong>LLMs, retrieval, machine learning, computer vision and autonomous decision-making</strong>
+to solve real-world problems.
+</p>
 
-My main area of interest is **Agentic AI**: building systems where AI agents can **reason, retrieve knowledge, interact with tools, coordinate tasks and take actions**.
-
-Currently exploring:
-
-**🤖 Agentic AI** · **🧩 Multi-Agent Systems** · **🧠 LLMs** · **🔎 RAG** · **🎯 Reinforcement Learning** · **👁️ Computer Vision**
+<p align="center">
+My main direction is <strong>Agentic AI</strong>:
+building systems where AI agents can
+<strong>reason, retrieve knowledge, interact with tools, coordinate tasks and take actions</strong>.
+</p>
 
 </td>
 </tr>
@@ -62,22 +97,39 @@ Currently exploring:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<strong>🤖 Agentic AI</strong>
+&nbsp;·&nbsp;
+<strong>🧩 Multi-Agent Systems</strong>
+&nbsp;·&nbsp;
+<strong>🧠 LLMs</strong>
+&nbsp;·&nbsp;
+<strong>🔎 RAG</strong>
+&nbsp;·&nbsp;
+<strong>🎯 Reinforcement Learning</strong>
+&nbsp;·&nbsp;
+<strong>👁️ Computer Vision</strong>
+
+</div>
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- AI FOCUS -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🧠 AI Focus</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-3730A3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-3730A3?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-312E81?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -89,46 +141,30 @@ Currently exploring:
 <tr>
 
 <td align="center" width="25%">
-<h3>🤖</h3>
-<b>Agentic AI</b>
-<br><br>
-AI Agents
-<br>
-Tool Use
-<br>
+<h3>🤖 Agentic AI</h3>
+<strong>AI Agents</strong><br>
+Tool Use<br>
 Autonomous Workflows
 </td>
 
 <td align="center" width="25%">
-<h3>🧩</h3>
-<b>Multi-Agent Systems</b>
-<br><br>
-LangGraph
-<br>
-Agent Orchestration
-<br>
+<h3>🧩 Multi-Agent</h3>
+<strong>LangGraph</strong><br>
+Agent Orchestration<br>
 Task Decomposition
 </td>
 
 <td align="center" width="25%">
-<h3>🔎</h3>
-<b>Knowledge</b>
-<br><br>
-RAG
-<br>
-Vector Search
-<br>
+<h3>🔎 Knowledge</h3>
+<strong>RAG</strong><br>
+Vector Search<br>
 Multimodal Retrieval
 </td>
 
 <td align="center" width="25%">
-<h3>🎯</h3>
-<b>Autonomous AI</b>
-<br><br>
-Reinforcement Learning
-<br>
-Decision Making
-<br>
+<h3>🎯 Autonomous AI</h3>
+<strong>Reinforcement Learning</strong><br>
+Decision Making<br>
 Optimization
 </td>
 
@@ -137,10 +173,9 @@ Optimization
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- FEATURED PROJECTS -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -148,28 +183,26 @@ Optimization
 <div align="center">
 
 <table>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3 align="center">🛰️ NetRAG</h3>
 
 <p align="center">
-<b>Agentic AI for Network Engineering</b>
+<strong>Agentic AI for Network Engineering</strong>
 </p>
 
-NetRAG is an **LLM-powered multi-agent assistant** for intelligent network engineering.
+<p>
+An LLM-powered assistant based on a <strong>multi-agent architecture</strong>
+for intelligent network knowledge retrieval, auditing and automation.
+</p>
 
-It combines:
-
-* Multi-Agent Architecture
-* LangGraph
-* Multimodal RAG
-* Hybrid Retrieval
-* Qdrant
-* Network Device Interaction
-* AI-assisted Auditing
-
-The system retrieves technical knowledge, analyzes network state and supports configuration validation and remediation.
+<p>
+<strong>Core:</strong><br>
+LangGraph · Multimodal RAG · Hybrid Retrieval · Qdrant · Network Automation
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square"/>
@@ -180,25 +213,24 @@ The system retrieves technical knowledge, analyzes network state and supports co
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">💳 FinPredict AI</h3>
 
 <p align="center">
-<b>Intelligent Credit Default Risk Platform</b>
+<strong>Intelligent Credit Default Risk Platform</strong>
 </p>
 
-A production-oriented ML platform combining:
+<p>
+A production-oriented ML platform combining
+<strong>LightGBM, historical evidence retrieval, SHAP explainability,
+calibration and model monitoring</strong>.
+</p>
 
-* LightGBM
-* Historical evidence retrieval
-* SHAP explainability
-* Calibration
-* Drift Detection
-* Model Monitoring
-* Automated workflows
-
-The project integrates **machine learning with retrieval-based historical evidence** for more informed and explainable risk assessment.
+<p>
+<strong>Core:</strong><br>
+Machine Learning · Retrieval · Explainability · Drift Detection · Automation
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LightGBM-025E8C?style=flat-square"/>
@@ -208,32 +240,34 @@ The project integrates **machine learning with retrieval-based historical eviden
 </p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3 align="center">🛡️ Autonomous Network Defense</h3>
 
 <p align="center">
-<b>Intrusion Detection & Response using Reinforcement Learning</b>
+<strong>Intrusion Detection & Response using Reinforcement Learning</strong>
 </p>
 
-An autonomous RL agent modeled as a **Markov Decision Process**.
+<p>
+An autonomous RL agent modeled as a
+<strong>Markov Decision Process</strong> for network intrusion detection
+and response.
+</p>
 
-The agent learns to:
+<p>
+<strong>Methods:</strong><br>
+Monte Carlo · Temporal-Difference · Q-Learning
+</p>
 
-* Monitor traffic
-* Detect suspicious behavior
-* Raise alerts
-* Isolate compromised nodes
-* Restore hosts
-
-Implemented and evaluated using:
-
-**Monte Carlo · Temporal-Difference · Q-Learning**
-
-with baseline comparison and safety constraints.
+<p>
+The environment allows the agent to monitor traffic,
+raise alerts, isolate compromised nodes and restore hosts.
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Reinforcement_Learning-7C3AED?style=flat-square"/>
@@ -243,26 +277,24 @@ with baseline comparison and safety constraints.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🔐 Secure Cloud MFA</h3>
 
 <p align="center">
-<b>Biometric Multi-Factor Authentication</b>
+<strong>Biometric Multi-Factor Authentication</strong>
 </p>
 
-A computer vision and cloud security system combining:
+<p>
+A secure authentication system combining
+<strong>facial recognition, head pose estimation, liveness detection
+and QR-based MFA</strong>.
+</p>
 
-* Face Recognition
-* Head Pose Estimation
-* Liveness Detection
-* QR-based MFA
-* AWS S3
-* DynamoDB
-* AES-256
-* HMAC-SHA-512
-
-Designed to strengthen cloud data access while mitigating spoofing attacks.
+<p>
+<strong>Core:</strong><br>
+OpenCV · Dlib · AWS S3 · DynamoDB · AES-256 · HMAC-SHA-512
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
@@ -272,15 +304,16 @@ Designed to strengthen cloud data access while mitigating spoofing attacks.
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- RESEARCH -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🔬 Research & Exploration</h2>
@@ -289,15 +322,20 @@ Designed to strengthen cloud data access while mitigating spoofing attacks.
 
 <table>
 <tr>
-<td width="800">
+<td width="850">
 
-### 🧠 Generative AI & Large Language Models
+<h3 align="center">🧠 Generative AI & Large Language Models</h3>
 
-Research work exploring:
+<p align="center">
+Exploring <strong>Generative AI, LLMs and Transformer architectures</strong>,
+including their concepts, applications, limitations and challenges.
+</p>
 
-**Generative AI · LLMs · Transformer Architectures · Applications · Limitations · Challenges**
-
-Also developed an **Image / Video-to-Text application** using **Google Vertex AI and Gemini** for visual analysis and text generation.
+<p align="center">
+Also developed an <strong>Image / Video-to-Text application</strong>
+using <strong>Google Vertex AI and Gemini</strong>
+for visual analysis and text generation.
+</p>
 
 </td>
 </tr>
@@ -305,13 +343,13 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- TECH STACK -->
-
+<!-- TECHNOLOGY STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">⚙️ Technology Stack</h2>
+
 
 <h3 align="center">Programming</h3>
 
@@ -321,7 +359,6 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 </div>
 
-<br>
 
 <h3 align="center">AI / Machine Learning</h3>
 
@@ -340,23 +377,21 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 </div>
 
-<br>
 
-<h3 align="center">Data / AI Infrastructure</h3>
+<h3 align="center">Data / Cloud / Infrastructure</h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Qdrant-D90429?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
 
 </div>
 
-<br>
 
 <h3 align="center">Development</h3>
 
@@ -366,7 +401,6 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 </div>
 
-<br>
 
 <h3 align="center">Networking</h3>
 
@@ -379,10 +413,9 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- AI ARCHITECTURE -->
-
+<!-- AI ARCHITECTURE IMAGE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🧬 AI Systems Architecture</h2>
@@ -391,44 +424,56 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
   <i>From data to intelligent actions.</i>
 </p>
 
-<br>
-
 <div align="center">
 
-<img 
-src="./assets/ai-architecture.png" 
-alt="AI Systems Architecture"
-width="100%"
-/>
+<a href="./assets/ai-architecture.png">
+  <img
+    src="./assets/ai-architecture.png"
+    width="100%"
+    alt="AI Systems Architecture"
+  />
+</a>
 
 </div>
 
 <br>
 
-<p align="center">
-  <b>Agentic AI</b> ·
-  <b>Multi-Agent Systems</b> ·
-  <b>LLMs</b> ·
-  <b>RAG</b> ·
-  <b>Reinforcement Learning</b> ·
-  <b>Computer Vision</b>
-</p>
+<div align="center">
+
+<strong>Agentic AI</strong>
+&nbsp;·&nbsp;
+<strong>Multi-Agent Systems</strong>
+&nbsp;·&nbsp;
+<strong>LLMs</strong>
+&nbsp;·&nbsp;
+<strong>RAG</strong>
+&nbsp;·&nbsp;
+<strong>Reinforcement Learning</strong>
+&nbsp;·&nbsp;
+<strong>Computer Vision</strong>
+
+</div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- GITHUB STATS -->
-
+<!-- GITHUB STATISTICS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=rebhimariem27-tech&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=rebhimariem27-tech&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  alt="GitHub statistics"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhimariem27-tech&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhimariem27-tech&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+  alt="Top languages"
+/>
 
 </div>
 
@@ -436,46 +481,51 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebhimariem2
 
 <div align="center">
 
-<img width="70%"
-src="https://streak-stats.demolab.com?user=rebhimariem27-tech&theme=transparent&hide_border=true"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=rebhimariem27-tech&theme=transparent&hide_border=true"
+  alt="GitHub streak"
+/>
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ACTIVITY GRAPH -->
-
+<!-- ACTIVITY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=rebhimariem27-tech&bg_color=00000000&color=8B5CF6&line=7C3AED&point=8B5CF6&area=true&hide_border=true"/>
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rebhimariem27-tech&bg_color=00000000&color=8B5CF6&line=7C3AED&point=8B5CF6&area=true&hide_border=true"
+  alt="Contribution activity graph"
+/>
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- CONTRIBUTION SNAKE -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
 
-<img width="90%"
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution snake"/>
+<img
+  width="90%"
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- CURRENTLY LEARNING -->
-
+<!-- CURRENTLY EXPLORING -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🌌 Currently Exploring</h2>
@@ -492,62 +542,115 @@ alt="GitHub contribution snake"/>
 
 </div>
 
+<br>
+
+<p align="center">
+  <strong>Learn → Experiment → Build → Evaluate → Improve</strong>
+</p>
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- EDUCATION -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-**National Engineering School of Tunis — ENIT**
+<strong>National Engineering School of Tunis — ENIT</strong>
+
+<br><br>
 
 ICT / Telecommunications Engineering
 
-**Focus:** AI · Machine Learning · Signal Processing · Computer Vision · Intelligent Communications · Networks · Cybersecurity
+<br><br>
+
+AI · Machine Learning · Signal Processing · Computer Vision ·
+Intelligent Communications · Networks · Cybersecurity
 
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- LOOKING FOR -->
-
+<!-- CAREER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🎯 Career Direction</h2>
 
 <div align="center">
 
-I'm interested in opportunities at the intersection of:
+<p>
+I'm interested in opportunities at the intersection of
+</p>
 
-**Agentic AI · Generative AI · Machine Learning · Multi-Agent Systems · Computer Vision · Intelligent Systems · AI Research**
+<p>
+<strong>
+Agentic AI · Generative AI · Machine Learning ·
+Multi-Agent Systems · Computer Vision · Intelligent Systems · AI Research
+</strong>
+</p>
 
-<br><br>
+<br>
 
-Looking to contribute to projects where **AI is designed not only to predict or generate, but to reason, interact and act.**
+<p>
+Looking to contribute to projects where
+<strong>AI can reason, interact and act</strong>
+to solve challenging real-world problems.
+</p>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- FOOTER -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTACT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br>
+<h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
 
-### 🤖 Build Agents
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-### 🧠 Make Them Reason
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
-### ⚡ Let Them Act
+<a href="https://github.com/rebhimariem27-tech">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>🤖 Build Agents</h3>
+<h3>🧠 Make Them Reason</h3>
+<h3>⚡ Let Them Act</h3>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:312E81,100:0F172A"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7C3AED,50:312E81,100:0F172A"
+  alt="Footer"
+/>
 
 </div>
