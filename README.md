@@ -252,14 +252,6 @@ flowchart LR
 
 </div>
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rebhimariem27-tech&theme=react-dark&bg_color=0F172A&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
