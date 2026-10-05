@@ -375,44 +375,38 @@ Also developed an **Image / Video-to-Text application** using **Google Vertex AI
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- AI PIPELINE -->
+<!-- AI ARCHITECTURE -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🧬 My AI Architecture Mindset</h2>
+<h2 align="center">🧬 AI Systems Architecture</h2>
+
+<p align="center">
+  <i>From data to intelligent actions.</i>
+</p>
+
+<br>
 
 <div align="center">
 
-```text
-                 ┌───────────────────┐
-                 │      USER         │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   AI AGENT / LLM │
-                 └─────────┬─────────┘
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-        ┌──────────┐ ┌───────────┐ ┌───────────┐
-        │  RETRIEVE │ │   REASON  │ │ USE TOOLS │
-        └─────┬────┘ └─────┬─────┘ └─────┬─────┘
-              │            │              │
-              └────────────┼──────────────┘
-                           ▼
-                 ┌───────────────────┐
-                 │      VALIDATE      │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │      ACT /         │
-                 │      AUTOMATE      │
-                 └───────────────────┘
-```
+<img 
+src="./assets/ai-architecture.png" 
+alt="AI Systems Architecture"
+width="100%"
+/>
 
 </div>
+
+<br>
+
+<p align="center">
+  <b>Agentic AI</b> ·
+  <b>Multi-Agent Systems</b> ·
+  <b>LLMs</b> ·
+  <b>RAG</b> ·
+  <b>Reinforcement Learning</b> ·
+  <b>Computer Vision</b>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
