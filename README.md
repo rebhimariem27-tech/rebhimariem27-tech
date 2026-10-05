@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rebhimariem27-tech&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="assets/Mariem_REBHI_photo.jpg"/>
 
 </div>
 
